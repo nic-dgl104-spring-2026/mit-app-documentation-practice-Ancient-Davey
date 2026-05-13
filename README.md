@@ -20,6 +20,10 @@ If you were hoping to download this code make sure you have MIT app inventor up 
 
 If you were hoping to contribute it is limited to peers and teacher in DGL-104.
 
+> All code was derived from MIT app inventor ball bounce tutorial.
+
+> No license provided
+
 ## Guideances:
 
 - [How To Write The Perfect Documentation For Your GitHub Project](https://dev.to/maddy/how-to-write-the-perfect-documentation-for-your-github-project-4k38)
