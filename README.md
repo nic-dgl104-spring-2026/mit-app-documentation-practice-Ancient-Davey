@@ -1,9 +1,10 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PKKXYd2S)
 # Ball Bounce
 
 ## Introduction:
 As you can tell this is an app for a simple ball bouncing app which I made by following the MIT app inventor tutorial. 
-
+<img width="875" height="498" alt="Screenshot 2026-05-20 085629" src="https://github.com/user-attachments/assets/7238dfca-6847-47fd-9f20-9f76244f3643" />
 The app works like this -- the ball uses "flung" with a set "speed" and "heading" coded into it to direct the ball. When it hits a corner it is programmed using ".edgereached" to bounce off the edge, simple right?
 
 I built this app mainly just to fulfill the required assignment for this week but overall it was kind of fun to do. It's nice to do some simple code at times.
