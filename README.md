@@ -4,8 +4,9 @@
 
 ## Introduction:
 As you can tell this is an app for a simple ball bouncing app which I made by following the MIT app inventor tutorial. 
-<img width="875" height="498" alt="Screenshot 2026-05-20 085629" src="https://github.com/user-attachments/assets/7238dfca-6847-47fd-9f20-9f76244f3643" />
 The app works like this -- the ball uses "flung" with a set "speed" and "heading" coded into it to direct the ball. When it hits a corner it is programmed using ".edgereached" to bounce off the edge, simple right?
+
+<img width="875" height="498" alt="Screenshot 2026-05-20 085629" src="https://github.com/user-attachments/assets/7238dfca-6847-47fd-9f20-9f76244f3643" />
 
 I built this app mainly just to fulfill the required assignment for this week but overall it was kind of fun to do. It's nice to do some simple code at times.
 
@@ -13,6 +14,9 @@ I built this app mainly just to fulfill the required assignment for this week bu
 If you were hoping to download this code make sure you have MIT app inventor up on your browser.
 - 1. Click create project.
 - 2. Now that you are at the project list there should be an icon that says import project (.aia) click it.
+ 
+<img width="517" height="401" alt="Screenshot 2026-05-20 085818" src="https://github.com/user-attachments/assets/d53ebb9b-dfb3-46c1-a2ba-ddda9da75810" />
+
 - 3. Locate your .aia file and upload
 - 4. The code should load and work on your AI companion or emulator and as the name implies the ball will bounce from edge to edge.
 - 5. Test it out on your emulator or AI companion by flicking the ball in a direction with your finger.
