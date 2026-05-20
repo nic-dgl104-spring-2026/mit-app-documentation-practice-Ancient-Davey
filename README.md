@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PKKXYd2S)
-# Application Name: [BallBounce] (from the tutorial)
-
-> 1. From here, you will start writing the project level documentation that describes the project and your learning outcomes.
-> 2. Once you have finished it, perform code review activity of your peer which will give you hands on experience on how industry-level code reviewing works.
+# Ball Bounce
 
 ## Documentation of Project:
 As you can tell this is an app for a simple ball bouncing app which I made by following the MIT app inventor tutorial. 
@@ -24,9 +21,4 @@ If you were hoping to contribute it is limited to peers and teacher in DGL-104.
 
 > No license provided
 
-## Guideances:
-
-- [How To Write The Perfect Documentation For Your GitHub Project](https://dev.to/maddy/how-to-write-the-perfect-documentation-for-your-github-project-4k38)
-- For example:
-    - [MkDocs](https://github.com/mkdocs/mkdocs) (Follow their README.md documentation)
 
